@@ -13,3 +13,18 @@ def math():
     """
     a = 57
     b = 7
+    suma=a+b
+    resta=a-b
+    producto=a*b
+    promedio=(a+b)/2
+    cociente_entero=a//b
+    resto=a%b
+    cociente_real=a/b
+    print(suma)
+    print(resta)
+    print(producto)
+    print(promedio)
+    print(cociente_entero)
+    print(resto)
+    print(cociente_real)
+#math()
